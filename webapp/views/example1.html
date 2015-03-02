@@ -1,7 +1,9 @@
-<h3>Task:</h3>
+<p data-translate="tabs.search.topic.lookupCustomers"></p>
+<p>
+    {{'tabs.search.label' | translate}}:
+    <input data-ng-model="search.username">
+    <input type="button" class="btn btn-primary" data-ng-click="clearSearch()" value="{{'reinitSearch' | translate}}"/>
+</p>
 
-<ul>
-    <li><h4>bind a test input field to a username model on the controller</h4></li>
-    <li><h4>implement a 'clearSearch' function triggered by a click on a button</h4></li>
-    <li><h4>have the username repeated and dynamically updated somewhere on the page</h4></li>
-</ul>
+
+{{search.username}}
