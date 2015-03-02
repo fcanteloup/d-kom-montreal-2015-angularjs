@@ -26,12 +26,12 @@ myAppDev.run(function($httpBackend, $rootScope, $filter) {
 
 
 
-	$httpBackend.when('GET', /users/, function(){return true}, function(){return true}).respond(function(method, url, data, headers){
-		var index = url.indexOf("?mask=");
-		var mask = index>1?url.substring(index+6):'';
-		var filtered = $filter('filter')(users, mask);
-		return [200, filtered];
-	});
+    $httpBackend.when('GET', /users/, function(){return true}, function(){return true}).respond(function(method, url, data, headers){
+        var index = url.indexOf("?mask=");
+        var mask = index>1?url.substring(index+6):'';
+        var filtered = $filter('filter')(users, mask);
+        return [200, filtered];
+    });
 
 	//one only mocks the call to i18n resources
 	$httpBackend.whenGET(/^views\//).passThrough();
