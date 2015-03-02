@@ -1,0 +1,69 @@
+    Model View Controller paradigm
+    dependency injection
+    2-way binding between DOM and model
+    scopes
+    enriched HTML5
+    interceptors
+    i18n
+    REST
+    event handlers and conditioned HTML5
+    testing testing testing : unit (+directive), e2e mocked, full e2e
+    MVC
+    angular UI bootstrap
+    DIRECTIVES
+    FILTERS
+    authentication
+
+
+Why a rich javascript client ?
+	- decoupling from server
+        - full testability
+        - presentation/behaviour decoupled from data/business
+	- bower dependencies
+
+
+Why angularJS ?
+	- totally different paradigm : as an extension of HTML5 / scopes / 2-way binding between DOM and model
+	- great spring-like dependency injection => easy testing, override mechanism
+	- directives that allow to build resuable, self-contained widgets
+	- big community
+	- full testability (UNIT & e2e) by means of Jasmine, Karma and protractor, node JS
+
+Some practice
+- all starts with ng-app and ng-controller
+- for this demo, we are using MVC router so we dont see data-ng-controller and how things are jsut scope to the dom node containing data-ng-controller
+- need to show how modules are wired and how dependency injection works
+- actually, everyting is directive and filters
+- for this demo, any server interaction is mocked by a cool native httpMock feature of angular JS, it is extensively used in e2e testing where you should be testing the client app end-to-end and not its integration with a live server
+- for this demo, we are already leveraging a cool "translate" directive/fitler that fetches i18n map from server
+
+example1 about 2 way binding DOM to model and model to DOM + translation directive and filter
+		- no need of event handler to bind both, just the click event
+		- data-ng-model
+		- anything in the $scope is accessible to the view
+		- {{}} parsing
+example2 about <<watching>> and pulling data from mocked server
+
+example3 about directives
+		-reusable, self-contained, tested (unit, unit with interaction)
+		-can kickin on DOM attributes,tags,css classes
+		-tag can be replaced of content be appended
+		-can contain very rich presentation/behaviour
+		-directives scope is a child of the enclosing scope and they can share synced data '=' or hard code string '@' or functions '&'
+
+example4 about filters
+		- default toolbox from angular : date, numbers...
+		- create your custom ones;
+		- executed on {{}} parsing, in the controller or in ng-repeat 
+
+
+testing
+	- karma conf
+	- ng-html2js plugin
+	- protractor conf
+	- you would have a dedicated e2eTesting.html + partial http mocking
+	- mocks/spys
+	- jasmine spec
+        - jQuery
+	- live testing
+

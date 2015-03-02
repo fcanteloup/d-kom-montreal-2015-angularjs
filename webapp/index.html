@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html
+	xmlns="http://www.w3.org/1999/xhtml"
+	lang="en"
+	data-ng-app="consoleApp"
+>
+<head>
+<title></title>
+
+<link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" >
+<link href="http/css/style.css" rel="stylesheet" />
+
+<!-- import for the angular components-->
+<script src="../bower_components/jquery/jquery.js"></script>
+<script src="../bower_components/angular/angular.js"></script>
+<script src="../bower_components/angular-animate/angular-animate.js"></script>
+<script src="../bower_components/angular-resource/angular-resource.js"></script>
+<script src="../bower_components/angular-route/angular-route.js"></script>
+
+<!-- //custom removeLike method declared from 14344 to 14353 in this custom version of angular-scenario.js-->
+<script src="http/js/lib/angular1.3/angular-scenario-hybris-custom.js"></script>
+
+<script src="http/js/lib/angular-translate/angular-translate.js"></script>
+<script src="http/js/lib/angular-translate/angular-translate-loader-static-files.min.js"></script>
+<script src="http/js/application/utils/translateService.js"></script>
+<script src="http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js"></script>
+<script src="http/js/application/utils/commonModule.js"></script>
+<script src="http/js/application/utils/functions.js"></script>
+<script src="http/js/application/directives/directives.js"></script>
+<script src="http/js/application/directives/filters.js"></script>
+
+<script src="http/js/application/console/tabs/example1Controller.js"></script>
+<script src="http/js/application/console/tabs/example2Controller.js"></script>
+<script src="http/js/application/console/tabs/example3Controller.js"></script>
+<script src="http/js/application/console/tabs/example4Controller.js"></script>
+<script src="http/js/application/console/console.js"></script>
+
+<!-- in this specific case for $httpBackend e2e mocking only -->
+<script src="../bower_components/angular-mocks/angular-mocks.js"></script>
+<script src="http/js/application/utils/e2eBackendMocks.js"></script>
+
+<style>
+	.found{
+		border-color:green;
+		background-image: url("../webapp/http/imagesConsole/success.png");
+		background-repeat: no-repeat;
+		width:100px
+	}
+	.notFound{
+		border-color:red;
+		background-image: url("../webapp/http/imagesConsole/error.png");
+		background-repeat: no-repeat;
+		width:100px
+	}
+</style>
+</head>
+<body data-ng-cloak>
+	<div>
+		<div class="banner">
+			<div data-ng-include="'views/fragments/headerBanner.html'">Top
+				Menu</div>
+			<div data-ng-include="'views/fragments/navigationTab.html'">navigation
+				tabs</div>
+		</div>
+
+		<div class="sub-container">
+			<div data-ng-view class="view-frame"></div>
+		</div>
+	</div>
+</body>
+</html>

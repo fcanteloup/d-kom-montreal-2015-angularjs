@@ -1,0 +1,6 @@
+<div class="" data-ng-if="alerts!=null && alerts.length>0">
+	<div data-ng-repeat="alert in alerts" class="ng-class: {span10:true, 'alert':true, 'alert-danger':(alert.successful==false),'alert-success':(alert.successful==true)};">
+		<button type="button" class="close" data-ng-click="dismissAlert($index);">&times;</button>
+		<span>{{alert.message | translate}}</span>
+	</div>
+</div>
