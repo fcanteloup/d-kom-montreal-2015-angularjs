@@ -1,8 +1,23 @@
-<h3>Task:</h3>
+<p data-translate="tabs.search.topic.lookupCustomers"></p>
+<p>
+	{{'tabs.search.label' | translate}}:
+	<input data-ng-model="search.username">
 
-<ul>
-    <li><h4>expose static users list to the template</h4></li>
-    <li><h4>dynamically filter it on the template side with the username value</h4></li>
-    <li><h4>bootstrap 'myFilters' module and use 'fringes' filter to display somewhere the username wrapped with '$' symbol</h4></li>
-    <li><h4>expose a timestamp to the template and apply a date form with the pattern of your choice</h4></li>
-</ul>
+	<input type="button" class="btn btn-primary" data-ng-click="clearSearch()" value="{{'reinitSearch' | translate}}"/>
+</p>	
+
+<hr/>
+	Users found on <b>client</b> with the mask {{search.username}}:
+	<div data-ng-repeat="user in users | filter:search.username">
+		<span>{{user.username}}</span>
+	</div>
+	<hr/>
+	One very useless fitler  from the <b>view</b> side : {{search.username | fringes:'$'}}
+	<br/>
+	One very useless fitler  from the <b>controller</b> side : {{search.username | fringes:'$'}}
+	<hr/>
+	Formatting timestamp {{timestamp}} from the <b>view</b> side : {{timestamp | date:'dd/MM/yyyy'}}
+	<br/>
+	Formatting timestamp {{timestamp}} from the <b>controller</b> side : {{formattedTimestamp}}
+	<hr/>
+
