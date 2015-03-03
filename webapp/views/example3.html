@@ -1,8 +1,11 @@
-<h3>Task:</h3>
+<p data-translate="tabs.search.topic.lookupCustomers"></p>
+<p>
+	{{'tabs.search.label' | translate}}:
+	<input data-ng-model="search.username" data-ng-crazy="10px">
+	<i id="searchStatus" class="ng-class: {'found':userFound, 'notFound':!userFound}; notFound">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+	<input type="button" class="btn btn-primary" data-ng-click="clearSearch()" value="{{'reinitSearch' | translate}}"/>
+</p>	
 
-<ul>
-    <li><h4>set up the alert directive by means of bootstrapping 'alertsDirective' module and including the following tag : <b style="color:red">&lt;alerts-box alerts="yourAlertArrayFromScope"/&gt;</b></h4></li>
-    <li><h4>push {successful: false, message: 'no.user.found'} and {successful: false, message: 'tryAgain'} to your alert array if no user found in the REST call</h4></li>
-    <li><h4>push {successful: false, message: 'no.user.found'} and {successful: false, message: 'tryAgain'} to your alert array if users found</h4></li>
-    <li><h4>observe dynamic change in the alerts box and try closing alerts</h4></li>
-</ul>
+<hr/>	
+	<div><alerts-box alerts="alerts"/></div>
+
