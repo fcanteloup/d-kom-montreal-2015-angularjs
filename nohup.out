@@ -1,0 +1,162 @@
+
+> POC-Angular@0.0.0 prestart /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> npm install
+
+
+> POC-Angular@0.0.0 postinstall /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> bower install
+
+
+> POC-Angular@0.0.0 start /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> http-server -p 7000
+
+[33mStarting up http-server, serving [39m[36m./[39m[33m on port: [39m[36m7000[39m
+Hit CTRL-C to stop the server
+[31mhttp-server stopped.[39m
+
+> POC-Angular@0.0.0 prestart /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> npm install
+
+
+> POC-Angular@0.0.0 postinstall /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> bower install
+
+
+> POC-Angular@0.0.0 start /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> http-server -p 7000
+
+[33mStarting up http-server, serving [39m[36m./[39m[33m on port: [39m[36m7000[39m
+Hit CTRL-C to stop the server
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/bootstrap/dist/css/bootstrap.min.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/css/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/jquery/jquery.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular/angular.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-animate/angular-animate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-resource/angular-resource.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/bootstrap/dist/css/bootstrap.min.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/css/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/jquery/jquery.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular/angular.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-animate/angular-animate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-resource/angular-resource.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-route/angular-route.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular1.3/angular-scenario-hybris-custom.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate-loader-static-files.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/translateService.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/commonModule.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/functions.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/directives.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/filters.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example1Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example2Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example3Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example4Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/console.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-mocks/angular-mocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/e2eBackendMocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/bootstrap/dist/css/bootstrap.min.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/css/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/jquery/jquery.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular/angular.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-animate/angular-animate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-resource/angular-resource.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular1.3/angular-scenario-hybris-custom.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate-loader-static-files.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/translateService.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-route/angular-route.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/commonModule.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/functions.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/directives.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/filters.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example1Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example2Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example3Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example4Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/console.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/bower_components/angular-mocks/angular-mocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/e2eBackendMocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular1.3/angular-scenario-hybris-custom.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/views/fragments/headerBanner.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/views/fragments/navigationTab.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:14 GMT] "[36mGET[39m [36m/webapp/views/example1.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[31mhttp-server stopped.[39m
+
+> POC-Angular@0.0.0 prestart /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> npm install
+
+
+> POC-Angular@0.0.0 postinstall /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> bower install
+
+
+> POC-Angular@0.0.0 start /Users/i843600/sources/d-kom-montreal-2015-angularjs
+> http-server -p 7000
+
+[33mStarting up http-server, serving [39m[36m./[39m[33m on port: [39m[36m7000[39m
+Hit CTRL-C to stop the server
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/bootstrap/dist/css/bootstrap.min.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-route/angular-route.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/css/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/jquery/jquery.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular/angular.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-animate/angular-animate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-resource/angular-resource.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular1.3/angular-scenario-hybris-custom.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate-loader-static-files.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/translateService.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/commonModule.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/functions.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/directives.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/filters.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example1Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example2Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example3Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example4Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/console.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-mocks/angular-mocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/e2eBackendMocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/views/fragments/headerBanner.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/views/fragments/navigationTab.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/views/example1.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/bootstrap/dist/css/bootstrap.min.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/css/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/jquery/jquery.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular/angular.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-animate/angular-animate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-resource/angular-resource.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular1.3/angular-scenario-hybris-custom.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-translate/angular-translate-loader-static-files.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/translateService.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-route/angular-route.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/commonModule.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/functions.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/directives.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/directives/filters.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example1Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example2Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example3Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/tabs/example4Controller.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/console/console.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/bower_components/angular-mocks/angular-mocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/application/utils/e2eBackendMocks.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular1.3/angular-scenario-hybris-custom.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/views/fragments/headerBanner.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/views/fragments/navigationTab.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[Fri, 13 Mar 2015 14:20:54 GMT] "[36mGET[39m [36m/webapp/views/example1.html[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0"
+[31mhttp-server stopped.[39m
