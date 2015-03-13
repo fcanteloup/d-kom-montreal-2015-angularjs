@@ -17,13 +17,9 @@
 <script src="../bower_components/angular-resource/angular-resource.js"></script>
 <script src="../bower_components/angular-route/angular-route.js"></script>
 
-<!-- //custom removeLike method declared from 14344 to 14353 in this custom version of angular-scenario.js-->
-<script src="http/js/lib/angular1.3/angular-scenario-hybris-custom.js"></script>
-
 <script src="http/js/lib/angular-translate/angular-translate.js"></script>
 <script src="http/js/lib/angular-translate/angular-translate-loader-static-files.min.js"></script>
 <script src="http/js/application/utils/translateService.js"></script>
-<script src="http/js/lib/angular-ui-bootstrap/0.6.0/angular-ui.min.js"></script>
 <script src="http/js/application/utils/commonModule.js"></script>
 <script src="http/js/application/utils/functions.js"></script>
 <script src="http/js/application/directives/directives.js"></script>
@@ -39,28 +35,12 @@
 <script src="../bower_components/angular-mocks/angular-mocks.js"></script>
 <script src="http/js/application/utils/e2eBackendMocks.js"></script>
 
-<style>
-	.found{
-		border-color:green;
-		background-image: url("../webapp/http/imagesConsole/success.png");
-		background-repeat: no-repeat;
-		width:100px
-	}
-	.notFound{
-		border-color:red;
-		background-image: url("../webapp/http/imagesConsole/error.png");
-		background-repeat: no-repeat;
-		width:100px
-	}
-</style>
 </head>
 <body data-ng-cloak>
 	<div>
 		<div class="banner">
-			<div data-ng-include="'views/fragments/headerBanner.html'">Top
-				Menu</div>
-			<div data-ng-include="'views/fragments/navigationTab.html'">navigation
-				tabs</div>
+			<div data-ng-include="'views/fragments/headerBanner.html'">Top Menu</div>
+			<div data-ng-include="'views/fragments/navigationTab.html'">navigation tabs</div>
 		</div>
 
 		<div class="sub-container">
